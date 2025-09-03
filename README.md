@@ -1,17 +1,22 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
+# Portfolio
+
+Welcome to my portfolio for 6.1040! Here, you'll find all of the assignments I've completed for the class.
 
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+
+Hi! My name is Amber Lien, and I'm a senior at MIT studying computer science and electrical engineering.
+I'm interested in software engineering, computer systems, and AI.
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+1. I jump between many hobbies -- drawing, crocheting, playing the piano, watching F1, etc.
+2. I love baking -- I've made cookies, cream puffs, fruit tarts, and more!
+3. I like ducks, space, [ducks in space](https://kurzgesagt.org/)!
 
+And here's an image I currently like:
+
+![Picture of the Milky Way with the Caption 'Thanks for the Mystery.'](assets/portfolio_img.png)
 
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
+
+[Link to Assignment 1](assignments/assignment1.md) [currently in progress]
