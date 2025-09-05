@@ -19,4 +19,4 @@ And here's an image I currently like:
 
 # Table of Contents
 
-[Link to Assignment 1](assignments/assignment1.md) [currently in progress]
+[Assignment 1](assignments/assignment1.md)
