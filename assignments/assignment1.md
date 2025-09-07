@@ -191,12 +191,12 @@ Below you'll find Assigment 1, a brainstorming activity meant to narrow down pos
 
 ### Problem 2: Inequitable Skill Assessment
 
-1. **Skill Checklist**: The checklist can provide students with a curated list of skills valuable for different fields and career paths. The checklist will help them identify which skills they already have and which to develop, allowing them to determine their strengths and prioritize growth.
+1. **Skill Checklist**: The checklist can provide students with a curated list of skills valuable for different fields and career paths. The checklist will help them identify which skills they already have and which to develop, allowing them to determine their strengths and prioritize growth. This checklist can further be used to create a roadmap or tree, helping visualize progression.
 2. **AI-Powered Career Summaries**: You can use AI to generate concise summaries of potential careers including required skills, typical pathways, and emerging opportunities. Students can explore career options before delving into more extensive research.
-3. **Career Filtering**: Students can filter potential careers based on their interests and current skill set, guiding them towards personalized learning paths and development goals. This filter can further be used to create a roadmap or tree, helping visualize progression.
+3. **Calendar & Reminder System**: Students can set deadlines for skill acquisition and receive reminders, helping them track progress and stay on schedule toward learning goals.
 
 ### Problem 3: Accessing Multilingual Poems
 
 1. **AI Translation**: AI can be used to automatically translate poems across multiple languages, making global poetry collections more accessible. Readers can access works they otherwise could not.
-2. **Bookmarking and Annotation**: Users can save poems, add personal notes, and track reflections, making exploration, comparison, and review more organized and interactive.
-3. **Community Discussions**: Users can engage with one another, sharing interpretations of multilingual poems, encouraging collaborative analysis, deepening understanding across cultures, and providing insights into different readings or cultural contexts.
+2. **Thematic Discovery**: Users can explore poems by themes, mood, or style using AI-driven recommendations. AI can be used to identify similar themes across poems in different languages.
+3. **Community Discussions**: Users can engage with one another, sharing interpretations of multilingual poems, encouraging collaborative analysis, deepening understanding across cultures, and providing insights into different readings or cultural contexts. Conversations can be held in different languages with AI helping translate them as well.
