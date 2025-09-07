@@ -20,7 +20,7 @@ Below you'll find Assigment 1, a brainstorming activity meant to narrow down pos
 
 4. **Listening to Music**: When I listen to music, I look for songs that I can’t stop replaying.
 
-5. **Following Analyses**: I follow analyses to see my favorite pastimes (e.g., F1, _Percy Jackson_) to see them in new ways and connect with others.
+5. **Following Analyses**: I follow analyses to see my favorite pastimes (e.g., F1, _Percy Jackson_) in new ways and connect with others.
 
 6. **Learning Languages**: I learn languages to stay connected with my family.
 
@@ -36,15 +36,15 @@ Below you'll find Assigment 1, a brainstorming activity meant to narrow down pos
 
 1. **Exploring Medical Research**
 
-   Through proofreading friends’ abstracts and papers, I’ve learned about topics that affect me, like the git microbiome, and innovations like AI in radiology. However, I often struggle to fully understand what I read due to medical terminology. Finding a way to make this information more accessible would help me focus on the clarity and structure of what I'm proofreading.
+   Through proofreading friends’ abstracts and papers, I’ve learned about topics that affect me, like the gut microbiome, and innovations like AI in radiology. However, I often struggle to fully understand what I read due to medical terminology. Finding a way to make this information more accessible would help me focus on the clarity and structure of what I'm proofreading.
 
-2. **Collecting Poems**
-
-   After reading “Wild Geese” by Mary Oliver, I began collecting poems to revisit and reflect on. Right now, my process is scattered – I browse different forums, follow conversations, and find poems I like through luck. I hope for an easier way to discover new poems and better understand which styles resonate with me.
-
-3. **Making Education Accessible**
+2. **Making Education Accessible**
 
    When I came to MIT, I discovered dozens of activities and career paths I hadn’t known existed — Science Olympiads, computing competitions, etc. Having the chance to explore these activities and fields earlier would have been exciting and made the decision of choosing a career path feel more manageable. I want to explore ways to connect students with resources and opportunities earlier.
+
+3. **Collecting Poems**
+
+   After reading “Wild Geese” by Mary Oliver, I began collecting poems to revisit and reflect on. Right now, my process is scattered – I browse different forums, follow conversations, and find poems I like through luck. I hope for an easier way to discover new poems and better understand which styles resonate with me.
 
 ## Problems
 
@@ -105,19 +105,16 @@ Below you'll find Assigment 1, a brainstorming activity meant to narrow down pos
 ### Problem 2: Inequitable Skill Assessment
 
 1. **Students**: Users exploring interests, identifying existing skills, and tracking progress towards learning goals.
-
 2. **Workers**: Existing members of the workforce.
-
 3. **Counselors**: Mentors supporting students in navigating education and career pathways.
-
 4. **Schools**: Institutions guiding students towards appropriate programs and careers.
 
-**Impact**: Students can better explore their interests, identify existing skills, and keep track of progress towards their learned goals. Workers can use the platform as a way to assess how their skills compare to emerging trends and innovations in their field, helping them plan their continued professional development. Counselors can support students, leveraging the tool to identify students' strengths and gaps. Schools may benefit from more focused, better-prepared applications but face challenges in keeping admissions processes fair.
+**Impact**: Students can better explore their interests, identify existing skills, and keep track of progress towards their learned goals. Workers can use the platform as a way to assess how their skills compare to emerging trends and innovations in their field, helping them plan their continued professional development. Counselors can support students, leveraging the tool to identify students' strengths and gaps. Schools may benefit from more focused, better-prepared applicants but face challenges in keeping admissions processes fair.
 
 ### Problem 3: Accessing Multilingual Poems
 
 1. **Poem Readers**: Users who want to explore poetry across multiple languages.
-2. **Poetry Scholars/Researchers**: Academecis studying multilingual works for analysis, translation studies, or compariative literature.
+2. **Poetry Scholars/Researchers**: Academecis studying multilingual works for analysis, translation studies, or comparative literature.
 3. **Family Members/Cultural Communities**: Individuals preserving and sharing poetry as part of their cultural heritage.
 
 **Impact**: Poem readers can discover diverse cultural perspectives and enjoy works in their original language. Poetry scholars and researchers can more easily analyze, translate, or compare literary works, fostering academic exploration. Family members and cultural communities can preserve and share their heritage.
@@ -136,7 +133,7 @@ Below you'll find Assigment 1, a brainstorming activity meant to narrow down pos
 
 5. [Risk of Oversimplification](https://pmc.ncbi.nlm.nih.gov/articles/PMC8241231/): A study from PCORI found that simplifying medical research summaries can improve patient understanding but it also risks omitting crucial details. This highlights the need for tools that make information accessible while preserving essential medical content.
 6. [MedlinePlus' Design](https://pmc.ncbi.nlm.nih.gov/articles/PMC1324769): MedlinePlus offers a comprehensive online health information resource. While it serves as a valueable tool, users have reported challenges with the complexity of medical terminology and limited interactivity.
-7. [Medical terminology can Confuse Patients](https://med.umn.edu/news/medical-terminology-can-be-confusing-patients): A study published in JAMA Network Open found that medical professionals often use terminology that patients misunderstand. For example, 21% of pateints believed the phrase "your tumor is progressing" meant good news.
+7. [Medical terminology can Confuse Patients](https://med.umn.edu/news/medical-terminology-can-be-confusing-patients): A study published in JAMA Network Open found that medical professionals often use terminology that patients misunderstand. For example, 21% of patients believed the phrase "your tumor is progressing" meant good news.
 8. [Missed Treatment Opportunities Due to Miscommunication](https://apponcologysummit.org/medical-jargon-creates-barrier-for-patients-with-cancer-strategies-to-improve-communication): An article from the Advanced Practice Providers Oncology Summit found that communication barriers in cancer patients lead to missed opportunities for early detection and effective treatment.
 9. [Forum Discussions Include Frustrations about Medical Terminology](https://www.reddit.com/r/disability/comments/1chvccl/what_do_we_think_about_using_medical_terminology): Some users in a discussion on a subreddit for disabilities about medical terminology have discussed frustrations with communicating with doctors using medical terminology, making conditions harder to understand.
 10. [Forum Discussions on Language Barriers](https://www.gransnet.com/forums/health/1192254-unable-to-understand-medical-staff-who-speak-limited-english): Some users in a UK-based forum noted the difficulty in addressing medical staff when faced with limited English profficiency.
@@ -161,7 +158,7 @@ Below you'll find Assigment 1, a brainstorming activity meant to narrow down pos
 
 9. [Skills Validation Network by Education Design Lab](https://eddesignlab.org/xcredit-skills-validation-network): The Skills Validation Network is a software-enabled system that helps recognize and validate skills gained through non-traditional routes, like work experience or community involvement. Its adoption, however, can be slow because employers and schools may not be familiar with the system. Implementing it also requires time and resources, which can be challenging for smaller institutions.
 
-10. [Career Assessment Tools at Yale](ttps://your.yale.edu/working-at-yale/learn-and-grow/career-development/career-assessment-tools): Yale provides a variety of career assessment tools focusing on interests, personality, values, and skills to assist students in exploring potential career paths. However, the tools often direct users to multiple fragmented platforms, requiring them to navigate different websites and resources to gather a complete picture, which can be time-consuming and confusing.
+10. [Career Assessment Tools at Yale](https://your.yale.edu/working-at-yale/learn-and-grow/career-development/career-assessment-tools): Yale provides a variety of career assessment tools focusing on interests, personality, values, and skills to assist students in exploring potential career paths. However, the tools often direct users to multiple fragmented platforms.
 
 ### Problem 3: Accessing Multilingual Poems
 
@@ -191,7 +188,7 @@ Below you'll find Assigment 1, a brainstorming activity meant to narrow down pos
 
 ### Problem 2: Inequitable Skill Assessment
 
-1. **Skill Checklist**: The checklist can provide students with a curated list of skills valuable for different fields and career paths. The checklist will help them identify which skills they already have and which to develop, allowing them to determine their strengths and prioritize growth. This checklist can further be used to create a roadmap or tree, helping visualize progression.
+1. **Skill Checklist**: The checklist can provide students with a curated list of skills valuable for different fields and career paths. The checklist will help them identify which skills they already have and which to develop, allowing them to determine their strengths and prioritize growth; it can further be used to create a roadmap or tree, helping visualize progression.
 2. **AI-Powered Career Summaries**: You can use AI to generate concise summaries of potential careers including required skills, typical pathways, and emerging opportunities. Students can explore career options before delving into more extensive research.
 3. **Calendar & Reminder System**: Students can set deadlines for skill acquisition and receive reminders, helping them track progress and stay on schedule toward learning goals.
 
