@@ -19,4 +19,6 @@ And here's an image I currently like:
 
 # Table of Contents
 
-[Assignment 1](assignments/assignment1.md)
+[Assignment 1: Problem Framing](assignments/assignment1.md)
+
+[Problem Set 1: Concept Design: Reading and Writing Concepts](assignments/pset1.md)
