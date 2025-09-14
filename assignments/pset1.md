@@ -168,9 +168,9 @@ Note that parameters in the concept spec followed by '?' indicate an optional pa
 1. Tokens can be revoked independently of the user's password.
 2. Token can have scopes limiting permitted resources or actions.
 3. Tokens can be used for automated or repeated access without logging in each session.
-4. Passwords are tied to a user, allows a person to act as a specified user with all permissions.
+4. Passwords are tied to a user, allowing a person to act as a specified user with all permissions.
 
-The GithHub page describing personal access tokens can do a stronger job emphasizing these differences. Currently, it primarily describes the process of creating a perseonal access token and parameter configurations. It does not describe revocability and automated access and only briefly covers scope.
+The GithHub page describing personal access tokens can do a stronger job emphasizing these differences. Currently, it primarily describes the process of creating a perseonal access token and parameter configurations. It does not describe revocability on the provided page or automated access. Examples of both of these should be given. Scopes are mentioned briefly, with more detail existing on a different page.
 
 ## Exercise 4: Defining Familiar Concepts
 
@@ -232,7 +232,7 @@ This concept specification is able to handle the case in which someone forgets t
     - requires: booking exists; the new start and end time interval does not conflict with any existing booking for the same room on the provided date; end is after start
     - effects: updates the booking to start at start and end at end on the given date
 
-Note that this implementation of a conference room booking does not allow one booking to extend over multiple days. Additionally, this design allows users to book multiply conference rooms at the same time so long as someone else hasn't booked it previously; this design was chosen because it's possible for one conference room to be insufficient for large party sizes.
+Note that this implementation of a conference room booking does not allow one booking to extend over multiple days. Additionally, this design allows users to book multiple conference rooms at the same time so long as someone else hasn't booked it previously; this design was chosen because it's possible for one conference room to be insufficient for large party sizes.
 
 ### Time-Based One-Time Password (TOTP)
 
@@ -258,4 +258,4 @@ Note that this implementation of a conference room booking does not allow one bo
     - requires: a user with the provided username exists and password; the provided token exists, has not expired, and is associated with the user
     - effects: allows the person logging in to act as the user associated with the provided username and password
 
-Note that in this design, the duration of the time-based one-time password is configuration but left optional to allow a default value to be set.
+Note that in this design, the duration of the time-based one-time password is configurable but left optional to allow a default value to be set.
