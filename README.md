@@ -21,4 +21,6 @@ And here's an image I currently like:
 
 [Assignment 1: Problem Framing](assignments/assignment1.md)
 
-[Problem Set 1: Concept Design: Reading and Writing Concepts](assignments/pset1.md)
+[Problem Set 1: Reading and Writing Concepts](psets/pset1.md)
+
+[Problem Set 2: Composing Concepts](psets/pset2.md)

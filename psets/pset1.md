@@ -1,4 +1,4 @@
-# Problem Set 1: Concept and Design: Reading and Writing Concepts
+# Problem Set 1: Reading and Writing Concepts
 
 ## Table of Contents:
 
