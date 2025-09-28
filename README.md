@@ -24,3 +24,5 @@ And here's an image I currently like:
 [Problem Set 1: Reading and Writing Concepts](psets/pset1.md)
 
 [Problem Set 2: Composing Concepts](psets/pset2.md)
+
+[Assignment 2: Functional Design](assignments/assignment2/assignment2.md)
