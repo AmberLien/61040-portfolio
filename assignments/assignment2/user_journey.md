@@ -1,22 +1,22 @@
 # User Journey
 
-Ali recently read a news article about a promising gene therapy that could slow the progression of Huntington's disease. Curious to learn more, she searches for academic papers on teh topic. As she begins skimming a dense research article, she realizes that much of the terminology is unfamiliar and the explanations are highly technical. Seeking assistance, Ali opens **MediLex** to help her navigate the paper.
+Ali recently read a news article about a promising gene therapy that could slow the progression of Huntington's disease. Curious to learn more, she searches for academic papers on the topic. As she begins skimming a dense research article, she realizes that much of the terminology is unfamiliar and the explanations are highly technical. Seeking assistance, Ali opens **MediLex** to help her navigate the paper.
 
-She starts by uploading the research paper into MediLex using the File Upload feature.
+She starts by uploading the research paper into MediLex using the File Upload feature. She clicks the "New File" button on the home page and uploads her article.
 
 ![see "New File" button](../../assets/assignment2/home.png)
 
-With the paper accessible and open in the app, Ali initiates a new conversation with **AskMedi** to interact with a knowledgeable chatbot; she titles the conversation "Huntington's Research".
+With the paper accessible and open in the app, Ali initiates a new conversation with **AskMedi** to interact with a knowledgeable chatbot. She clicks on the AskMedi icon and titles the new conversation "Huntington's Research".
 
 ![see "New Chat" button](../../assets/assignment2/newChatButton.png)
 
-Encountering a particularly dense paragraph, she copies and pastes the text into AskMedi, requesting a simplified summary. The chatbot returns an explanation that allows her to grasp the main ideas quickly. Curious about a specific term, Ali asks AskMedi to define it. Through this back-and-forth, Ali can clarify confusing sections without losing her place in the paper.
+She begins reading the paper and makes progress. Encountering a particularly dense paragraph, she copies and pastes the text into AskMedi, requesting a simplified summary. The chatbot returns an explanation that allows her to grasp the main ideas quickly. Curious about a specific term in the explanation, Ali asks AskMedi to define it. Through this back-and-forth, Ali clarifies confusing sections without losing her place in the paper.
 
-When she finishes reading, Ali wants to keep her resources organized for future reference. in the **Library**, she creates a folder titled "Huntington's".
+When she finishes reading, Ali wants to keep her resources organized for future reference. In the **Library**, she creates a folder titled "Huntington's" by clicking the "New Folder" button.
 
-![see "New File" Button](../../assets/assignment2/library.png)
+![see "New Folder" Button](../../assets/assignment2/library.png)
 
-She moves both the uploaded paper and the AskMedi conversation into it.
+She moves both the uploaded paper and the AskMedi conversation into it by selecting the three dotted button on both items and clicking the "Move" option.
 
 ![see "Move File" Transitions](../../assets/assignment2/itemModification.png)
 

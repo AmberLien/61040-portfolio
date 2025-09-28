@@ -36,7 +36,7 @@
 
 ---
 
-**concept** File
+**concept** File \[User\]
 
 **purpose** represent uploaded content
 
@@ -105,7 +105,7 @@
     - chat exists
     - chat owner is the session user
   - effects:
-    - appends a new message with role = "llm" to the chat's message list
+    - appends a new message with role "llm" to the chat's message list
 - `deleteChat(sessionToken: String, chat: Chat)`
   - requires:
     - sessionToken is valid
@@ -126,7 +126,7 @@
 
 **purpose** organize items in a hierarchy
 
-**principle** after you create a folder and insert items into it, you can move the folder into another folder and all the elements will still belong to it
+**principle** after you create a folder and insert items into it, you can move the folder into another folder and all the elements will still belong to it; after deleting the folder, its elements will be removed as well
 
 **state**
 
@@ -203,21 +203,21 @@
 - **when**
   - `Request.makeFile(sessionToken, name, content, fileLocation)`
   - `File.makeFile(sessionToken, name, content): (f)`
-- **then** `Folder.addItem(sessionToken, fileLocation, f)`
+- **then** `Folder.addItem(sessionToken, f: fileLocation, newItem: f)`
 
 ---
 
 **File Deletion**
 
-- **when** `Request.deleteFile(sessionToken, f, item)`
-- **then** `Folder.removeItem(sessionToken, f, item)`
+- **when** `Request.deleteFile(sessionToken, fileLocation, file)`
+- **then** `Folder.removeItem(sessionToken, f: fileLocation, item: file)`
 
 - **when**
 
-  - `Request.deleteFile(sessionToken, f, item)`
-  - `Folder.removeItem(sessionToken, f, item)`
+  - `Request.deleteFile(sessionToken, fileLocation, file)`
+  - `Folder.removeItem(sessionToken, f: fileLocation, item: file)`
 
-- **then** `File.deleteFile(sessionToken, f)`
+- **then** `File.deleteFile(sessionToken, f: file)`
 
 ---
 
@@ -229,18 +229,18 @@
 - **when**
   - `Request.makeChat(sessionToken, name, f)`
   - `Chat.makeChat(sessiontoken, name): (chat)`
-- **then** `Folder.addItem(sessionToken, f, chat)`
+- **then** `Folder.addItem(sessionToken, f, newItem: chat)`
 
 ---
 
 **Chat Deletion**
 
 - **when** `Request.deleteChat(sessionToken, f, chat)`
-- **then** `Folder.removeItem(sessionToken, f, item)`
+- **then** `Folder.removeItem(sessionToken, f, item: chat)`
 
 - **when**
   - `Request.deleteChat(sessionToken, f, chat)`
-  - `Folder.removeItem(sessionToken, f, item:)`
+  - `Folder.removeItem(sessionToken, f, item: chat)`
 - **then** `Chat.deleteChat(sessionToken, chat)`
 
 ---
@@ -250,6 +250,11 @@
 - **when** `Request.renameFile(sessionToken, f, item, newName)`
 - **then** `Folder.renameItem(sessionToken, f, item, newName)`
 
+- **when**
+  - `Request.renameFile(sessionToken, f, item, newName)`
+  - `Folder.renameItem(sessionToken, f, item, newName)`
+- **then** `File.renameFile(sessionToken, f: item, newName)`
+
 ---
 
 **Rename Chat**
@@ -257,22 +262,27 @@
 - **when** `Request.renameChat(sessionToken, f, chat, newName)`
 - **then** `Folder.renameItem(sessionToken, f, chat, newName)`
 
+- **when**
+  - `Request.renameChat(sessionToken, f, chat, newName)`
+  - `Folder.renameItem(sessionToken, f, chat, newName)`
+- **then** `Chat.renameChat(sessionToken, chat, newName)`
+
 ---
 
 **Delete Folder**
 
 - **when** `Request.deleteFolder(sessionToken, f)`
-- **then** `Folder.deleteFolder(sessionToken, folfder): (content)`
+- **then** `Folder.deleteFolder(sessionToken, f): (content)`
 
 - **when**
-  - `Request.deleteFolder(sessionToken, folder)`
-  - `Folder.deleteFolder(sessionToken, folder): (content)`
+  - `Request.deleteFolder(sessionToken, f)`
+  - `Folder.deleteFolder(sessionToken, f): (content)`
 - **where** content elm is of type chat
 - **then** `Chat.deleteChat(sessionToken, chat: content_elm)`
 
 - **when**
-  - `Request.deleteFolder(sessionToken, folder)`
-  - `Folder.deleteFolder(sessionToken, folder): (content)`
+  - `Request.deleteFolder(sessionToken, f)`
+  - `Folder.deleteFolder(sessionToken, f): (content)`
 - **where** content elm is of type file
 - **then** `File.deleteFile(sessionToken, f: content_elm)`
 
