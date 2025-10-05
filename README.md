@@ -26,3 +26,5 @@ And here's an image I currently like:
 [Problem Set 2: Composing Concepts](psets/pset2.md)
 
 [Assignment 2: Functional Design](assignments/assignment2/assignment2.md)
+
+[Assignment 3: AI-Augmented Concept](https://github.com/AmberLien/61040-assignment3)
